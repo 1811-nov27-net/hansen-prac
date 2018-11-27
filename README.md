@@ -1,6 +1,6 @@
 # hansen-prac
 This is a practice repository.
 
-## my first git edit
+## my second git edit
 
 Copyright 2018 Beau Hansen
